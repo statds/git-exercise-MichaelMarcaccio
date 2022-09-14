@@ -1,4 +1,4 @@
-# MY THESIS
+# MY THESIS STAT 3494W
 
 
 Project
